@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8de4398-f5c2-4a10-8c40-a1127c9f0600" name="Changes" comment="" />
+    <list default="true" id="f8de4398-f5c2-4a10-8c40-a1127c9f0600" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../React/Advanced_react/advance-react" beforeDir="false" afterPath="$PROJECT_DIR$/../../React/Advanced_react/advance-react" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../React/rapido-web-clone" beforeDir="false" afterPath="$PROJECT_DIR$/../../React/rapido-web-clone" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2tD1a0Q7ztKip7vVgChizpkkTE8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -18,8 +24,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/anushka.jain/Downloads/ecommerce (2)/ecommerce",
+    "last_opened_file_path": "C:/Users/anushka.jain/Desktop/Practice/Java(SpringBoot, Spring)/DemoSpring",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -41,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739871890432</updated>
       <workItem from="1739871891549" duration="161000" />
+      <workItem from="1739882862819" duration="40000" />
     </task>
     <servers />
   </component>
