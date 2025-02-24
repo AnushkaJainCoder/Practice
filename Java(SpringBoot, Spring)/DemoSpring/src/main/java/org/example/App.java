@@ -14,7 +14,7 @@ public class App
         Dev d =(Dev) context.getBean("dev");
 //        d.age = 20;
 //        d.setAge(12);
-        System.out.println(d.getAge());
+//        System.out.println(d.getAge());
 //        System.out.println();
 
 //        d.build();
