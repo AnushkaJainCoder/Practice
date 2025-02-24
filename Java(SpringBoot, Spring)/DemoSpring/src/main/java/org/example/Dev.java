@@ -33,7 +33,7 @@ public class  Dev {
 //        System.out.println("laptop parameter applied");
 //    }
     public Dev(){
-        System.out.println("no parameter");
+//        System.out.println("no parameter");
         System.out.println("dev constructor");
     }
 

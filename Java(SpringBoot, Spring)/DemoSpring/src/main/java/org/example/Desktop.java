@@ -3,7 +3,7 @@ package org.example;
 public class Desktop implements Computer{
 
     public Desktop(){
-        System.out.println("Desktop is running");
+        System.out.println("Desktop iconstructor");
     }
 
     public void compile(){

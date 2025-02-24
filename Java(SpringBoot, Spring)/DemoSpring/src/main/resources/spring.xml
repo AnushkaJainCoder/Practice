@@ -10,6 +10,7 @@
 <!--        <constructor-arg ref="laptop123"/>-->
     </bean>
     <bean id="laptop123" class="org.example.Laptop"></bean>
+    <bean id="desktop123" class="org.example.Desktop" />
 </beans>
 
 <!--<beans>-->
